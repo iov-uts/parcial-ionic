@@ -1,0 +1,7 @@
+{
+  "name": "ivan-ojeda-grupoE191-examen2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
